@@ -1,0 +1,10 @@
+body{
+    background-size:cover;
+}
+
+#heading_fruit_bowl {
+    width:100%;
+    margin:0;
+    padding:20px;
+    font-size:x-large;
+}

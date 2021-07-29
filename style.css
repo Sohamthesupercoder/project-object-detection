@@ -1,0 +1,15 @@
+body {
+    background-size:cover;
+}
+
+#heading {
+    color:turquoise;
+    margin-top:15px;
+}
+
+.a {
+    font-size:x-large;
+    background-color:royalblue;
+    color:red;
+    padding:10px
+}
